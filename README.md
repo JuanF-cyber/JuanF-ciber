@@ -48,8 +48,9 @@ I am an undergraduate Computer science and Engineering student at SENATI. Java, 
 
 </span>
 
-<h2">Github stats:</h2> 
+<h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=JuanF-ciber&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanF-ciber)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanF-ciber&theme=material-palenight)](https://github.com/JuanF-ciber)
+[![](https://github-readme-stats.vercel.app/api?username=JuanF-cyber&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanF-cyber)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanF-cyber&theme=material-palenight)](https://github.com/JuanF-cyber)
 </div>
+
