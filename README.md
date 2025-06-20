@@ -47,3 +47,9 @@ I am an undergraduate Computer science and Engineering student at SENATI. Java, 
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
 </span>
+
+<h2">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=JuanF-cibershow_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JuanF-ciber)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JuanF-ciber&theme=material-palenight)](https://github.com/JuanF-ciber)
+</div>
